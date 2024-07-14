@@ -2,7 +2,7 @@ Student, Developer, Human, Gamer, I Don't Know What Else
 
 Going through military right now.
 
-[Military Experience]
+[Military Experience] <br>
 📑 ㅇ Frequently using Hancom Document/Excel/Show in order to gather, compile and spread information sourcing from the main division and brigade.
 ☎️ ㅇ Our Battalion was reported as the battalion with the least shortcomings during April(Won the best battalion for teamwork) and June(Won the best battalion for consistency).
 🥈 ㅇ Physical Training everyday and personal maintenance time spent on weak muscle training resulted in a change from Failing Grade to 2nd Grade soldier.(60+ Pushups(2min), 70+ Situps(2min), 13:30> in 3km Sprinting)
