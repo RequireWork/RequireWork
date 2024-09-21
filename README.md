@@ -1,7 +1,7 @@
 <h1>Student, Developer, Human, Gamer,Militant I Don't Know What Else</h1> <br>
 <code>Going through military right now.</code> <br>
 <br>
-[Military Experience] <br>
+<h2>[Military Experience]</h2> <br>
 📑 ㅇ Frequently using Hancom Document/Excel/Show in order to gather, compile and spread information sourcing from the main division and brigade. <br>
 ☎️ ㅇ Our Battalion was reported as the battalion with the least shortcomings during April(Won the best battalion for teamwork) and June(Won the best battalion for consistency). <br>
 🥈 ㅇ Physical Training everyday and personal maintenance time spent on weak muscle training resulted in a change from Failing Grade to 2nd Grade soldier.(60+ Pushups(2min), 70+ Situps(2min), 13:30> in 3km Sprinting) <br>
@@ -10,7 +10,7 @@
 🖥️ ㅇ Coding in military nowadays, taking my time on getting back onto the topics I studied before!(Currently have a LinkedIn page for this!https://www.linkedin.com/in/kwon-yihyun-5389a730b/) <br>
 
 <br>
-[Except for that] <br>
+<h2>[My Favourite Games?!!]</h2><br>
 Here are my 7 favourite games I've played until now(This will definitely change but I hope to keep them this way) <br>
 🏛️ - Superliminal: A game that taught me something <br> 
 🌊 - Bioshock: Absolutely inspiring and amazing. Imagine a city under the sea. <br>
@@ -20,7 +20,7 @@ Here are my 7 favourite games I've played until now(This will definitely change 
 🃏 - Balatro: I'm not into gambling. BUT
 {More to be added soon!} <br>
 <br>
-[My hobbies] <br>
+<h2>[My hobbies]</h2> <br>
 👣 - Futsal, Soccer: I'm not a great player but I absolutely enjoy it(Played over 30 games in Military! Our team got 2nd place during the brigade tournaments!) <br>
 📖 - Reading any type of interesting book: I will grab a book and set a 3 month finish goal for it. <br>
      (Current Finished Book list) <br>
