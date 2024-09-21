@@ -35,6 +35,7 @@ Here are my 7 favourite games I've played until now(This will definitely change 
 🥊 - Boxing: I like to do a ton of cardio workout but I didn't know how to do it in a fun way, so I chose boxing! Fun and a ton of Cardio. <br>
 ‎‍🎓 - Studying: Military encourages every soldier to study during free time since a smart soldier is a ton better than one that moves on instinct! So we have study groups here that normally are given 7 hours a week to study!
 <br>
+<br>
 This is it for now, <br>
 I will definitely change and rearrange this however.  <br>
 <br>
