@@ -1,4 +1,4 @@
-<h1>Student, Developer, Human, Gamer,Militant I Don't Know What Else</h1> <br>
+<h1>Student, Developer, Human, Gamer, Soldier I Don't Know What Else 😅</h1> <br>
 <code>Going through military right now.</code> <br>
 <br>
 <h2>[Military Experience]</h2> <br>
