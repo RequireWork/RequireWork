@@ -1,5 +1,5 @@
 <h1>Student, Developer, Human, Gamer,Militant I Don't Know What Else</h1> <br>
-**Going through military right now.** <br>
+<code>Going through military right now.</code> <br>
 <br>
 [Military Experience] <br>
 📑 ㅇ Frequently using Hancom Document/Excel/Show in order to gather, compile and spread information sourcing from the main division and brigade. <br>
