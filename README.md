@@ -4,7 +4,7 @@
 <h2>[Military Experience]</h2> <br>
 📑 ㅇ Frequently using Hancom Document/Excel/Show in order to gather, compile and spread information sourcing from the main division and brigade. <br>
 ☎️ ㅇ Our Battalion was reported as the battalion with the least shortcomings during April(Won the best battalion for teamwork) and June(Won the best battalion for consistency). <br>
-🥈 ㅇ Physical Training everyday and personal maintenance time spent on weak muscle training resulted in a change from Failing Grade to 2nd Grade soldier.(60+ Pushups(2min), 70+ Situps(2min), 13:30> in 3km Sprinting) <br>
+🥈 ㅇ Physical Training everyday and personal maintenance time spent on weak muscle training resulted in a change from Failing Grade to 2nd Grade soldier.(70+ Pushups(2min), 80+ Situps(2min), 12:40> in 3km Sprinting) <br>
 ⛑️ ㅇ Currently the Co-Leader of the Headquarter Squad, focusing on solving small conflicts between squads and encouraging junior soldiers to join in physical training and social activities(Futsal,badminton). <br>
 ⚽ ㅇ Favorite personal maintenance time sports are Futsal(Left wing), Badminton(Single), Boxing(Coach), Tabletop Tennis(1v1) <br>
 🖥️ ㅇ Coding in military nowadays, taking my time on getting back onto the topics I studied before!(Currently have a LinkedIn page for this!https://www.linkedin.com/in/kwon-yihyun-5389a730b/) <br>
@@ -32,7 +32,8 @@ Here are my 7 favourite games I've played until now(This will definitely change 
        to my laptop! <br>
 📽️ - Video Editing: I got into it during highschol and I don't really want to forget it. I also did this in order to see how the Youtube algorithm works! <br>
 🥊 - Boxing: I like to do a ton of cardio workout but I didn't know how to do it in a fun way, so I chose boxing! Fun and a ton of Cardio. <br>
-‎‍🎓 - Studying: Military encourages every soldier to study during free time since a smart soldier is a ton better than one that moves on instinct! So we have study groups here that normally are given 7 hours a week to study!
+‎‍🎓 - Studying: Military encourages every soldier to study during free time since a smart soldier is a ton better than one that moves on instinct! So we have study groups here that normally are given 7 hours a week to study! <br>
+     <t>I would like to add that we've been also incorporating after work hours which is between 22:00 ~ 00:00 in order to catch up on other subjects, I've been taking the 25:15 study pattern as it is the most stable for me in a long run.</t>
 <br>
 <br>
 This is it for now, <br>
