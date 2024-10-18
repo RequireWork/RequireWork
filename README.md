@@ -33,7 +33,7 @@ Here are my 7 favourite games I've played until now(This will definitely change 
 📽️ - Video Editing: I got into it during highschol and I don't really want to forget it. I also did this in order to see how the Youtube algorithm works! <br>
 🥊 - Boxing: I like to do a ton of cardio workout but I didn't know how to do it in a fun way, so I chose boxing! Fun and a ton of Cardio. <br>
 ‎‍🎓 - Studying: Military encourages every soldier to study during free time since a smart soldier is a ton better than one that moves on instinct! So we have study groups here that normally are given 7 hours a week to study! <br>
-     <t>I would like to add that we've been also incorporating after work hours which is between 22:00 ~ 00:00 in order to catch up on other subjects, I've been taking the 25:15 study pattern as it is the most stable for me in a long run.</t>
+     <pre>I would like to add that we've been also incorporating after work hours which is between 22:00 ~ 00:00 in order to catch up on other subjects, I've been taking the 25:15 study pattern as it is the most stable for me in a long run.</pre>
 <br>
 <br>
 This is it for now, <br>
