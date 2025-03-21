@@ -1,5 +1,5 @@
 <h1>Student, Developer, Human, Gamer, Soldier I Don't Know What Else 😅</h1> <br>
-<code>Going through military right now.</code> <br>
+<code> Finished Military!! Woohoo .</code> <br>
 <br>
 <h2>[Military Experience]</h2> <br>
 📑 ㅇ Frequently using Hancom Document/Excel/Show in order to gather, compile and spread information sourcing from the main division and brigade. <br>
@@ -8,6 +8,10 @@
 ⛑️ ㅇ Currently the Co-Leader of the Headquarter Squad, focusing on solving small conflicts between squads and encouraging junior soldiers to join in physical training and social activities(Futsal,badminton). <br>
 ⚽ ㅇ Favorite personal maintenance time sports are Futsal(Left wing), Badminton(Single), Boxing(Coach), Tabletop Tennis(1v1) <br>
 🖥️ ㅇ Coding in military nowadays, taking my time on getting back onto the topics I studied before!(Currently have a LinkedIn page for this!https://www.linkedin.com/in/kwon-yihyun-5389a730b/) <br>
+
+<br>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4045022" style='border:none;'></iframe>
+<br>
 
 <br>
 <h2>[My Favourite Games?!!]</h2><br>
@@ -39,6 +43,7 @@ Here are my 7 favourite games I've played until now(This will definitely change 
 This is it for now, <br>
 I will definitely change and rearrange this however.  <br>
 <br>
+
 Commit 06.15 <br>
 Commit 06.16 <br>
 Commit 07.14 <br>
@@ -46,3 +51,4 @@ Commit 08.23 <br>
 Commit 09.21 <br>
 Commit 10.05 <br>
 Commit 10.22 <br>
+Commit 2025.02.28 <br>
