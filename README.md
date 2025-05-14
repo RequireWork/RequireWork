@@ -10,7 +10,7 @@
 🖥️ ㅇ Coding in military nowadays, taking my time on getting back onto the topics I studied before!(Currently have a LinkedIn page for this!https://www.linkedin.com/in/kwon-yihyun-5389a730b/) <br>
 
 <br>
-<img src="[https://tryhackme-badges.s3.amazonaws.com/ShallowNautilus.png](https://assets.tryhackme.com/room-badges/9b354e478653cc1218a2f19ee7543cee.png)" alt="Your Image Badge" />
+<img src="https://assets.tryhackme.com/room-badges/9b354e478653cc1218a2f19ee7543cee.png" alt="Your Image Badge" />
 <br>
 
 <br>
